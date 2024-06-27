@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nitish kumar
-- 👀 I’m interested in .Machine Learning and data science..
+- 👀 I’m interested in software development and anlytics.
 - 🌱 I’m currently learning .machine Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nitishgupta784@gmail.com
